@@ -1,0 +1,35 @@
+{
+  "participants": [],
+  "blacklist": [],
+  "config": {
+    "hashtag": "#tropadovth",
+    "hashtag_locked": false,
+    "bonus_roles": {
+      "1431281022267297863": {
+        "name": "Ficha 1",
+        "quantity": 1,
+        "abbreviation": "1"
+      },
+      "1431281152571998330": {
+        "name": "Ficha 2",
+        "quantity": 1,
+        "abbreviation": "F2"
+      },
+      "1431281235736662238": {
+        "name": "Ficha 3",
+        "quantity": 1,
+        "abbreviation": "F3"
+      },
+      "1431281920452329492": {
+        "name": "Ficha 4",
+        "quantity": 1,
+        "abbreviation": "F4"
+      }
+    },
+    "tag_enabled": true,
+    "server_tag": "VTH",
+    "tag_quantity": 1,
+    "chat_lock_enabled": true,
+    "chat_lock_channel": "1430852198673420424"
+  }
+}
